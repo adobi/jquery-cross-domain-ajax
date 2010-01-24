@@ -22,7 +22,7 @@
 					
 				}
 				else {
-					//self.load(options.url);
+					self.load(options.url);
 				}
 			}
 		});
